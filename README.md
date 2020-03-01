@@ -1,0 +1,1 @@
+It gives you the most efficient order in which matrices are to be multiplied inoder to compute the sequence of matrix chain with minimum number of multiplications.We use Dynamic Programming for this.Its time complexity is reduced from exponential to O(n^3)
